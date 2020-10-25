@@ -1,0 +1,7 @@
+.repository/
+.settings/
+target/
+.classpath
+.project
+pom-old.xml
+*.class
